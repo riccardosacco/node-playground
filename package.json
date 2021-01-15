@@ -1,0 +1,11 @@
+{
+  "name": "node-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/riccardosacco/node-playground.git",
+  "author": "Riccardo Sacco <rickybag99@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^7.1.6"
+  }
+}
